@@ -45,4 +45,3 @@ Additionally, the application provides a dropdown menu to select the number of r
 
 The styling is done using Bootstrap for a clean and responsive layout. Custom styles are defined in the `style.css` file to enhance the visual appeal of the web page.
 
-Feel free to modify and customize the code to suit your preferences or adapt it for use with other GitHub usernames.
